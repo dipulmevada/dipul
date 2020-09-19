@@ -3,7 +3,7 @@
 $ pkg install python
 $ pkg install git
 $ python3 -m pip install requests
-$ git clone https://github.com/dipulmevada/dipulmevada
+$ git clone https://github.com/dipulmevada/dipul
 $ cd dipulmevada
 $ python3 dipul.py
 ```
